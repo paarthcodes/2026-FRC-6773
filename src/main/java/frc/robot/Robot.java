@@ -22,6 +22,7 @@ public class Robot extends TimedRobot {
     CommandScheduler.getInstance().run();
   }
 
+  //Initialization for disabled code
   @Override
   public void disabledInit() {}
 
